@@ -1,0 +1,10 @@
+# Generated model inputs reconstructed from the committed archives and CSVs.
+/CCLE/processed_data/
+/GDSC/processed_data/
+
+# Local environments, Python caches, and experiment verification outputs.
+/.venv/
+__pycache__/
+*.pyc
+*.log
+*_smoke_1epoch.csv
